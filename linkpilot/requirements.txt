@@ -1,0 +1,7 @@
+
+uagents
+uagents-core
+openai
+requests
+python-dotenv
+streamlit
